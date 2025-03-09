@@ -1,0 +1,19 @@
+css :
+  - "text-align"
+  - "line-height"
+  - "text-wrap"
+  - "font-family" :
+    - "info : safe fonts list !"
+    - "find : how OS decode fonts from 3rd party ?"
+    - "site : Google fonts"
+    - "best practice : don't use more than three fonts"
+    - "usage : import font to page using HTML by <link> tag , by CSS by @import"
+    - "info : convert to webfonts by using online tools like fontface generator"
+    - "find : defference between font's formats : ttf, otf, woff, woff2, eot, svg ..etc"
+    - "info : @font-face "
+    # - "find : how to use fonts by Google CDN"
+  - "selector::hover"
+  - "selector::selection"
+  - "transition" : 
+    - "info : ( transition : <target value | all> <time<unit>> ) "
+  - "info : font awesome - icons library"

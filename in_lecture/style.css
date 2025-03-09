@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.custom-font {
+  font-family: "Rakkas", serif;
+  font-size: 3em;
+  font-weight: 400;
+  color: red;
+  font-style: normal;
+}
