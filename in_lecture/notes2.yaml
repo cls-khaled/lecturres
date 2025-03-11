@@ -1,0 +1,27 @@
+# 2025-03-11
+css :
+  - list:
+    - "list-style-type"
+    - "list-style-image"
+  - display : 
+    - "inline"
+    - "block"
+    - "inline-block"
+  - visibility : 
+    - "visible"
+    - "hidden"
+    - "collapse"
+  - "position": 
+    - "static"
+    - "relative !!"
+    - "absolute !!"
+    - "fixed"
+    - "sticky" 
+sites: 
+  - "https://www.freepik.com/"
+  - "shutter stock" :
+    - "nohat cc [remove watermark from shutter stock images]"
+  - "themeforset"
+figma : 
+  - plugin : 
+      "unsplash (High quality images)"
