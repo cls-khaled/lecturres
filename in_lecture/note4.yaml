@@ -1,0 +1,7 @@
+site : 
+  - "boxicons.com"
+css: 
+  - "z-index" 
+  - "text-indent"
+  - "nested class as Object (classA.ClassB) without space "
+  - "text > placeholder selector "
